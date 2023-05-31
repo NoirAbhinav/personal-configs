@@ -1,0 +1,61 @@
+{
+	"editor.bracketPairColorization.enabled": true,
+	"python.pythonPath": "C:\\Python\\Python38\\python.exe",
+	"workbench.startupEditor": "newUntitledFile",
+	"kite.showWelcomeNotificationOnStartup": false,
+	"workbench.iconTheme": "eq-material-theme-icons-darker",
+	"[html]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"liveServer.settings.donotShowInfoMsg": true,
+	"emmet.excludeLanguages": ["markdown"],
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"files.exclude": {
+		"**/.classpath": true,
+		"**/.project": true,
+		"**/.settings": true,
+		"**/.factorypath": true
+	},
+	"[css]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"C_Cpp.updateChannel": "Insiders",
+	"python.defaultInterpreterPath": "C:\\Python\\Python38\\python.exe",
+	"editor.inlineSuggest.enabled": true,
+	"cmake.configureOnOpen": true,
+	"bracketPairColorizer.depreciation-notice": false,
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"github.copilot.enable": {
+		"*": true,
+		"yaml": false,
+		"plaintext": false,
+		"markdown": false,
+		"cpp": true,
+		"javascript": true,
+		"javascriptreact": false
+	},
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+	"workbench.colorTheme": "Winter is Coming (Dark Black)",
+	"window.menuBarVisibility": "compact",
+	"gitlens.views.commitDetails.files.layout": "tree",
+	"tabnine.experimentalAutoImports": true,
+	"svelte.enable-ts-plugin": true,
+	"editor.formatOnSave": true,
+	"[python]": {
+		"editor.defaultFormatter": "ms-python.black-formatter",
+		"editor.formatOnType": true
+	},
+	"terminal.integrated.enableMultiLinePasteWarning": false,
+}
